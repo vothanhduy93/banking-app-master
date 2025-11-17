@@ -10,10 +10,6 @@ This is a basic banking application built with JavaScript. There are both checki
 
 To reset your accounts refresh the browser.
 
-## Screenshots
-![Banking App](http://i65.tinypic.com/jzzite.jpg "Enter Starting Balance")
-![Banking App](http://i67.tinypic.com/zb8g5.jpg "Account Info")
-
 ## Built With
 
 * HTML
